@@ -42,7 +42,7 @@ git clone https://github.com/mysteirousmanvoid0769/MetropolitenBaku.git
 ### Заходим в папку с файлами
 
 ```bash
-cd Metropoliten
+cd MetropolitenBaku
 ```
 
 ### Создаем папку build и заходим в нее
