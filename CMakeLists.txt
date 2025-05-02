@@ -3,8 +3,8 @@ cmake_minimum_required(VERSION 3.10)
 
 project(MetropolitenBaku)
 
-option(BUILD_SHARED_LIBS "Build shared libraries (.dll/.so) instead of static ones (.a/.lib)" ON)
-
+option(BUILD_SHARED_LIBS "Build shared libraries" ON)
+#(.dll/.so) instead of static ones (.a/.lib)
 
 add_library(metro metro.cpp)
 
